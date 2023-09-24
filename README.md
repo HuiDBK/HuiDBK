@@ -15,3 +15,15 @@
     <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=817692384431470&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
+
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=huidbk&theme=vue-light)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HuiDBK"></img>
+
+![BEPb's github activity graph](https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg)
+
+
+
