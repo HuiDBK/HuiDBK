@@ -9,37 +9,6 @@
 - 📮 huidbk@163.com
 - 📖 https://juejin.cn/user/817692384431470/columns
 
-<table border=0>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=huidbk&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
-  </tr>
-</table>
-
-### Pinned Projects
-<p>
-  <a href="https://github.com/HuiDBK/py-tools">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huidbk&repo=py-tools&theme=vue-light" />
-  </a>
-   <a href="https://github.com/HuiDBK/WordSprite">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huidbk&repo=WordSprite&theme=vue-light" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/HuiDBK/HuiHome ">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huidbk&repo=HuiHome&theme=vue-light" />
-  </a>
-  <a href="https://github.com/HuiDBK/SensitiveWordsMatch">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huidbk&repo=SensitiveWordsMatch&theme=vue-light" />
-  </a>
-</p>
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=huidbk&theme=vue-light)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HuiDBK"></img>
-
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg)
-
-
-
